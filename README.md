@@ -6,7 +6,7 @@ A clean and creative web form to collect user information using **HTML + CSS + P
 
 ## 📸 Screenshots
 
-| Form Page | Database Table |
+| Form Page | Database  |
 |-----------|----------------|
 | ![Form](Screenshot1.png) | ![Database](Screenshot2.png) |
 

@@ -36,7 +36,7 @@ This simple project allows users to:
 
 ## 🚀 How to Run
 
-1. Start **XAMPP** or **WAMP**
+1. Start **XAMPP** 
 2. Move the project folder to the `htdocs` directory (for XAMPP)
 3. Create the database:
    - Go to [localhost/phpmyadmin](http://localhost/phpmyadmin)

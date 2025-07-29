@@ -46,7 +46,7 @@ This simple project allows users to:
        id INT AUTO_INCREMENT PRIMARY KEY,
        name VARCHAR(100),
        age INT,
-       status INT
+       status INT DEFAULT 0
      );
      ```
 4. Open your browser and visit:

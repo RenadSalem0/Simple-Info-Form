@@ -8,7 +8,7 @@ A clean and creative web form to collect user information using **HTML + CSS + P
 
 | Form Page | Database Table |
 |-----------|----------------|
-| ![Form](screenshot1.png) | ![Database](screenshot2.png) |
+| ![Form](Screenshot1.png) | ![Database](Screenshot2.png) |
 
 > Replace these with your actual screenshots (UI and phpMyAdmin view)
 

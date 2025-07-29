@@ -30,7 +30,7 @@ This simple project allows users to:
 - HTML & CSS (custom styling)
 - PHP (server-side processing)
 - MySQL (database)
-- XAMPP or WAMP (local server environment)
+- XAMPP (local server environment)
 
 ---
 

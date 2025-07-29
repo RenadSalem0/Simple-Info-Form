@@ -24,7 +24,7 @@ This simple project allows users to:
 
 ---
 
-## 🧰 Tools Used
+## 🛠️ Tools Used
 
 - HTML & CSS (custom styling)
 - PHP (server-side processing)
